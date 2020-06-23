@@ -930,6 +930,7 @@ section {
   text-align: center;
   border-radius: 5px;
   background: #fff;
+  width: 65%;
   box-shadow: 0px 2px 15px rgba(65, 76, 100, 0.06);
 }
 
@@ -958,6 +959,10 @@ section {
   display: inline-block;
 }
 
+.team-description {
+    padding: 20px;
+}
+
 .team .member .social a:hover {
   color: #ffc107;
 }
@@ -976,7 +981,7 @@ section {
   margin-bottom: 5px;
   font-size: 18px;
   color: #414c64;
-  float: right;
+
 }
 
 .team .member .member-info span {
