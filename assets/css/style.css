@@ -976,6 +976,7 @@ section {
   margin-bottom: 5px;
   font-size: 18px;
   color: #414c64;
+  float: right;
 }
 
 .team .member .member-info span {
